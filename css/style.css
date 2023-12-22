@@ -1,0 +1,26 @@
+body{
+    background-color: #776B5D;
+
+}
+#quotes{
+    text-align: center;
+}
+#quotes h1{
+    font-size: 80px;
+    font-family: 'Anton', sans-serif;
+}
+#quotes h3{
+    font-size: 35px;
+}
+
+#quotes button{
+    background-color: #B0A695;
+    border: #B0A695;
+    width: 100px;
+    height: 50px;font-size: 16px;
+    font-family: 'Anton', sans-serif;
+}
+#quotes p{
+    font-size: 26px;
+    font-family: 'Lilita One', sans-serif;
+}
